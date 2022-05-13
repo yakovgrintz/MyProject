@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7ea6c14-85d9-4314-80e8-2c0a043e7746" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CreateBarcode.java" afterDir="false" />
-    </list>
+    <list default="true" id="d7ea6c14-85d9-4314-80e8-2c0a043e7746" name="Changes" comment="letws go" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,8 +48,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652378742677</updated>
-      <workItem from="1652378744928" duration="2254000" />
+      <workItem from="1652378744928" duration="2590000" />
     </task>
+    <task id="LOCAL‎00001" summary="letws go">
+      <created>1652430265726</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1652430265726</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="letws go" />
+    <option name="LAST_COMMIT_MESSAGE" value="letws go" />
   </component>
 </project>
